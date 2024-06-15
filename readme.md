@@ -1,4 +1,4 @@
-I started my CUET preparation in March 2024. This is also when I created a deck for Business Studies and Economics. 
+<li>I started my CUET preparation in March 2024. This is also when I created a deck for Business Studies and Economics.</li>
 Over the next 2.5 months, I created about 1100 flashcards. These include questions I crafted myself, PYQs, and Mocks.
 I've attached a PDF file that contains original sample questions.
 I think the next level in any exam preparation is inclusion of automated spaced repetition in the exam prep strategy. 
